@@ -7,6 +7,8 @@ This is a Django demo repo base on https://docs.djangoproject.com/en/2.0/intro/
 
 - https://docs.djangoproject.com/en/2.0/intro/
 - https://docs.djangoproject.com/en/2.0/topics/testing/tools/#testing-tools
+- https://docs.djangoproject.com/en/2.0/topics/templates/#variables
+- https://docs.djangoproject.com/en/2.0/ref/templates/builtins/
 - https://pip.pypa.io/en/stable/user_guide/#user-installs
 - http://flask.pocoo.org/
 - https://github.com/pyenv/pyenv
